@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Soham | Student learning Python and cybersecurity" width="100%" />
+<img src="assets/background.svg" alt="Soham | Student learning Python and cybersecurity" width="100%" />
 
 </div>
 
